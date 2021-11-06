@@ -1,9 +1,11 @@
 "items": [
   {
+    "id": 123
     "Author": "User 1",
     "Body": "Manul"
   },
   {
+    "id": 456
     "Author": "User 2",
     "Body": "Fishing cat"
   }
