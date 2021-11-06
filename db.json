@@ -1,12 +1,10 @@
-{
-  "items": [
-    {
-      "Author": "User 1",
-      "Body": "Manul"
-    },
-    {
-      "Author": "User 2",
-      "Body": "Fishing cat"
-    }
-  ]
-}
+"items": [
+  {
+    "Author": "User 1",
+    "Body": "Manul"
+  },
+  {
+    "Author": "User 2",
+    "Body": "Fishing cat"
+  }
+]
